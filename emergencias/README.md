@@ -1,18 +1,15 @@
-## Getting Started
+# 🚨 Sistema de Emergencias (Demo mínima)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Autor:** José María Vázquez  
+**Asignatura:** Programación en Entornos de Desarrollo  
+**Curso:** 2024-2025  
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🧠 Descripción
+Este proyecto es una versión simplificada de un **sistema de gestión de emergencias**, desarrollado en Java con Visual Studio Code.  
+Permite simular la recepción y gestión de alertas desde una interfaz de consola.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🗂️ Estructura del proyecto
